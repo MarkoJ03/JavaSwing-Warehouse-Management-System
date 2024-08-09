@@ -1,0 +1,8 @@
+START Prodavci
+END Prodavci
+START Menadzeri
+END Menadzeri
+START Kvarljivi Proizvodi
+END Kvarljivi Proizvodi
+START Kucni Aparati
+END Kucni Aparati

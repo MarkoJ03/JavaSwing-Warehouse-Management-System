@@ -1,0 +1,4 @@
+START Zaposleni
+END Zaposleni
+START Menadzer
+END Menadzer
